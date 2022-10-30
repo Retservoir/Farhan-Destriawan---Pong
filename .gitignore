@@ -1,0 +1,13 @@
+Library/*
+Logs/*
+Temp/*
+.vs/*
+obj/*
+
+.vsconfig
+*.sln
+
+Assembly-CSharp.csproj
+.vscode/settings.json
+ProjectSettings/*
+UserSettings/EditorUserSettings.asset
