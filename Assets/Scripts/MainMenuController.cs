@@ -11,6 +11,16 @@ public class MainMenuController : MonoBehaviour
         Debug.Log("Created By Farhan Destriawan");
     }
 
+    public void PlayCredit()
+    {
+        SceneManager.LoadScene("Credit");
+    }
+
+    public void PlayMenu()
+    {
+        SceneManager.LoadScene("Main Menu");
+    }
+
     public void OpenAuthor()
     {
         Debug.Log("Created By Farhan Destriawan");
